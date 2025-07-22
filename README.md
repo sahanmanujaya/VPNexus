@@ -80,7 +80,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/xelroth/VPNexus/master/main.sh
 We welcome contributions to VPNexus! If you're interested in contributing to the project, please don't hesitate to reach out. You can contact me via:
 
 * Email: [Sahanmanujaya07@gmail.com](Sahanmanujaya07@gmail.com)
-* Telegram: [@SM Gura]([https://t.me/ZELROTH](https://t.me/SMgura))
+* Telegram: [@SM Gura](https://t.me/SMgura)
 
 Whether it's a bug report, a feature request, or a pull request, your contribution is valued and appreciated. Let's work together to make VPNexus even better!
 **Screenshots** 📸

@@ -87,7 +87,7 @@ Whether it's a bug report, a feature request, or a pull request, your contributi
 
 ### MAIN Menu
 
-<img src="/images/main_menu.png">
+<img src="main_menu.png">
 
 ### GIFS
 ![](menu.gif)

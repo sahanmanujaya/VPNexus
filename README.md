@@ -90,7 +90,7 @@ Whether it's a bug report, a feature request, or a pull request, your contributi
 <img src="/images/main_menu.png">
 
 ### GIFS
-![](/images/menu.gif)
+![](menu.gif)
 
 **License** ©️
 
